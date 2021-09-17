@@ -1,0 +1,14 @@
+SMAP
+checkotp_jsp.java
+JSP
+*S JSP
+*F
++ 0 checkotp.jsp
+checkotp.jsp
+*L
+5,127:44
+132,2:172
+133,2:174
+135:176,3
+136,21:179
+*E

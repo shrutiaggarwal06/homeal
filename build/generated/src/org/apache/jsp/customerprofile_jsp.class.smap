@@ -1,0 +1,18 @@
+SMAP
+customerprofile_jsp.java
+JSP
+*S JSP
+*F
++ 0 customerprofile.jsp
+customerprofile.jsp
+*L
+1,145:45
+146:190,3
+147,10:193
+157:203,3
+158,18:206
+176:224,3
+177,9:227
+186:236,3
+187,63:239
+*E
